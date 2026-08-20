@@ -8,8 +8,6 @@ A collection of open-source tools for Dota 2 — mod menus, visual overlays, map
 
 * **Archive Password:** `887788`
 
-**Keywords:** `dota-2-trainer`, `dota2-cheat`, `dota2-maphack`, `dota2-visuals`, `dota2-automation`, `dota2-mod-menu`, `dota2-skin-changer`
-
 ---
 
 ## ⚠️ Disclaimer
