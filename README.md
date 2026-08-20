@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5389ff35-852c-439c-bc5b-7592db06f801" />
+
 # Dota 2 Trainer — Mod Menu, Visuals, Automation, Maphack
 
 A collection of open-source tools for Dota 2 — mod menus, visual overlays, maphack, camera hack, automation, and skin mods. For educational purposes only.
